@@ -32,12 +32,3 @@ class ThemeButton {
   static BorderRadius borderRadius = BorderRadius.circular(3);
   static EdgeInsets padding = EdgeInsets.fromLTRB(5.0, 12.0, 5.0, 12.0);
 }
-
-class ThemeBoxShadow {
-  static BoxShadow whiteCardTopShadow = BoxShadow(
-    color: Color.fromRGBO(0, 0, 0, .3),
-    offset: Offset(0, -5),
-    blurRadius: 5,
-    spreadRadius: 0,
-  );
-}

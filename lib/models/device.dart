@@ -1,3 +1,0 @@
-enum DeviceType {
-  APPLE,ANDROID
-}
