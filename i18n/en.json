@@ -1,0 +1,18 @@
+{
+  "welcome_title" : "Welcome!",
+  "welcome_details" : "Zonar MyView is the best way to keep you notified of when your students are getting to school, and getting home. After you setup your account, you will receive notifications when their buses leave school, and arrive at designated locations.",
+  "welcome_create_account" : "Sign up with email",
+  "welcome_no_account": "Already have an account? ",
+  "welcome_login" : "Log in.",
+  "login_title" : "Login",
+  "register_title" : "Create Account",
+  "register_password_req" : "Password must be at least 8 characters long.",
+  "register_notification_desc" : "I'd like to receive updates about my student(s) bus by:",
+  "register_push_notifications" : "Push Notifications (preferred)",
+  "register_email_notifications" : "Email",
+  "add_customer_details" : "Your school district sent this 5 digit code to your address just prior to the start of your students transportation start date.",
+  "add_customer_no_code_title" : "Don't have an access code?",
+  "add_customer_no_code_details" : "The school district is able to provide this code to you if you contact them.",
+  "edit_student_buses_added" : "Buses %s were added to the student. You can add/remove zones associated with your buses by changing your zone settings under 'Add/Manage Zones'.",
+  "edit_student_buses_removed" : "Buses %s were removed from the student. Notifications from the de-selected buses will stop for this student. "
+}
